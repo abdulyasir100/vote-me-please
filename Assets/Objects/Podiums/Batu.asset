@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ebf74841ac34e0469526c5f4f07d584, type: 3}
+  m_Name: Batu
+  m_EditorClassIdentifier: 
+  Name: Podium Batu
+  podium_sprite: {fileID: 21300000, guid: e0d54e33e45814e49bde61f6f9ae2ee9, type: 3}
+  cost: 0
+  perClickIncrease: 1
+  position: {x: 0.3545, y: 2.4012}
+  size: {x: 0.4606899, y: 0.4606899, z: 0.4606899}
